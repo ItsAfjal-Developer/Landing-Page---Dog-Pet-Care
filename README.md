@@ -30,7 +30,7 @@ Showcasing a beautifully structured hero section aimed at Pet lovers.
 
 ## Screenshots
 
-Below is a Preview of **Landing Page - Dog Pet Store**, Showcasing the Layout and Styling implemented Using pure HTML , CSS & Javascript. 
+Below is a Preview of **Landing Page - Dog Pet Store**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 <img src="images/Screenshot.png" alt="Landing Page - Dog Pet Store Preview" width="100%" />
