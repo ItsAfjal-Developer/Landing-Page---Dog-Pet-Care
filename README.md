@@ -1,5 +1,5 @@
 # Landing Page - Dog Pet Store
-- Welcome to the Dog Pet Store Landing Page Project! This is a Clean and Modern UI Design built using HTML and CSS, 
+Welcome to the Dog Pet Store Landing Page Project! This is a Clean and Modern UI Design built using HTML and CSS, 
 Showcasing a beautifully structured hero section aimed at Pet Lovers.
 
 ## Features
